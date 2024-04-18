@@ -25,17 +25,6 @@
 ### VII. Manifest
 - Make your app a standalone PWA by adding manifest requirements to make sure users can install this app directly in there devices to use it as any other apps
 
-    > Tip: Use `npx` instead of `npm` to execute packages without installing them. good for storage managment, use create react app to get manifest files right away.
-
-    ```
-    npx create-react-app my-app
-    cd my-app
-    npm start
-    ```
-
-    
-     
-
 ### VIII. Test the app
 - Open your app in defferent devices to see how it performs and make sure there is no errors
 
