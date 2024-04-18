@@ -23,7 +23,7 @@
     > *Tip: Make sure you do phase 2 after phase 1. otherwise you will have no progress.*
 
 ### VII. Manifest
-- Make your app a standalone PWA by adding manifest requirements to make sure users can install this app directry in there devices to use it as any other apps
+- Make your app a standalone PWA by adding manifest requirements to make sure users can install this app directly in there devices to use it as any other apps
 
     > Tip: Use `npx` instead of `npm` to execute packages without installing them. good for storage managment, use create react app to get manifest files right away.
 
@@ -41,7 +41,8 @@
 
 ### IX. Publish your aplication
 - get your app online for people to start using
-    > Tip: Hosting using: Render (https://render.com/) or Vercel (https://vercel.com/)
+  
+    > Tip: Publish using: Render (https://render.com/) or Vercel (https://vercel.com/) 
 
 
 
