@@ -6,7 +6,7 @@
     > *Tip: use ChatGPT to generate names faster*
 
 ### II. Create an Email for the app
-- This email will be used in Authentication and in newslwter or account activity notification
+- This email will be used for OTTP code, newsletter or account activity notification
     > *Gmail will do*
 
 ### III. Tech selection
